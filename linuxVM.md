@@ -13,6 +13,8 @@
 
 5. Hover over where it says 6080, and click the globe icon.
 
+<img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/Screenshot%202022-12-24%2013.10.07.png">
+
 6. Click connect. The password is `vscode` (no caps). It will open a new tab with a background that says "right click..."
 
 7. Right click and click web browser. Within 20 seconds chrome will open. Enjoy!
@@ -21,3 +23,7 @@
 > On the left side of the screen, open the sidebar and click the settings icon, click advanced, and check "Auto Reconnect". Set reconnect delay to 1000. Go back to settings, and set scaling mode to "Remote Resizing". 
 > 
 > NOTE: VM will automatically shut off after 30 minutes, reopen the vscode tab and change like 1 letter every 15 minutes.
+
+To re-enter the webpage after it shut itself down, click the antena(2) icon on the bottom right corner of the VScode page.
+
+<img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/Screenshot%202022-12-24%2013.10.34.png">
