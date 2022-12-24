@@ -37,3 +37,9 @@
 ## Speed Test:
 
 <img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/Screenshot%202022-12-24%2013.22.21.png">
+
+---
+
+<p align="center">
+<img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/radioactive-potato.svg"> <img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/potato-incorporated.svg">
+</p>
