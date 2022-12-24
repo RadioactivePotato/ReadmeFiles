@@ -27,3 +27,7 @@
 To re-enter the webpage after it shut itself down, click the antena(2) icon on the bottom right corner of the VScode page.
 
 <img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/Screenshot%202022-12-24%2013.10.34.png">
+
+## Speed Test:
+
+<img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/Screenshot%202022-12-24%2013.22.21.png">
