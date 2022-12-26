@@ -1,8 +1,8 @@
 #### Radioactive Potato, Potato Incorporated badges side by side.
 
-```<img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/radioactive-potato.svg"> <img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/potato-incorporated.svg">```
+```<img src="https://github.com/RadioactivePotato/RandomFileForScriptOrEmbedAndMayBeCreatingTheLongestRepositoryNameEverPossibleTheLimitIsHereEveryone/blob/main/radioactive-potato.svg"> <img src="https://github.com/RadioactivePotato/RandomFileForScriptOrEmbedAndMayBeCreatingTheLongestRepositoryNameEverPossibleTheLimitIsHereEveryone/blob/main/potato-incorporated.svg">```
 
-<img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/radioactive-potato.svg"> <img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/potato-incorporated.svg">
+<img src="https://github.com/RadioactivePotato/RandomFileForScriptOrEmbedAndMayBeCreatingTheLongestRepositoryNameEverPossibleTheLimitIsHereEveryone/blob/main/radioactive-potato.svg"> <img src="https://github.com/RadioactivePotato/RandomFileForScriptOrEmbedAndMayBeCreatingTheLongestRepositoryNameEverPossibleTheLimitIsHereEveryone/blob/main/potato-incorporated.svg">
 
 ---
 
@@ -10,5 +10,5 @@
 
 ```
 <p align="center">
-<img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/radioactive-potato.svg"> <img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/potato-incorporated.svg">
+<img src="https://github.com/RadioactivePotato/RandomFileForScriptOrEmbedAndMayBeCreatingTheLongestRepositoryNameEverPossibleTheLimitIsHereEveryone/blob/main/radioactive-potato.svg"> <img src="https://github.com/RadioactivePotato/RandomFileForScriptOrEmbedAndMayBeCreatingTheLongestRepositoryNameEverPossibleTheLimitIsHereEveryone/blob/main/potato-incorporated.svg">
 </p>
