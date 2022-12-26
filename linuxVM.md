@@ -34,6 +34,9 @@
 > 
 > NOTE: VM will automatically shut off after 30 minutes, reopen the vscode tab and change like 1 letter every 15 minutes.
 
+## Usage Limit
+[Learn more about it here](https://github.blog/changelog/2022-11-09-codespaces-for-free-and-pro-accounts/#:~:text=With%20this%20update%2C%20GitHub%20will,20%20GB%20storage%20per%20month.)
+
 ## Speed Test:
 
 <img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/Screenshot%202022-12-24%2013.22.21.png">
